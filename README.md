@@ -84,16 +84,6 @@ $ npx prisma migrate dev --name init
 
 ---
 
-## 🧾 Stripe Webhooks
-
-To test webhooks locally, use:
-
-```bash
-$ stripe listen --forward-to localhost:3000/stripe/webhook
-```
-
----
-
 ## 📄 License
 
 Nest is [MIT licensed](LICENSE).
