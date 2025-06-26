@@ -1,4 +1,4 @@
-Sure! Here's the full markdown content for your **NestJS boilerplate with Auth, Stripe, and Prisma**:
+**NestJS boilerplate with Auth, Stripe, and Prisma**:
 
 ---
 
@@ -94,7 +94,6 @@ src/
 ├── user/               # User module
 ├── stripe/             # Stripe module for payments & webhooks
 ├── prisma/             # PrismaService and seed logic
-├── common/             # Guards, decorators, interceptors
 ├── app.module.ts       # Main app module
 ├── main.ts             # Entry point
 ```
@@ -124,14 +123,6 @@ To test webhooks locally, use:
 ```bash
 $ stripe listen --forward-to localhost:3000/stripe/webhook
 ```
-
----
-
-## 👥 Stay in touch
-
-* Author – [Kamil Myśliwiec](https://kamilmysliwiec.com)
-* NestJS – [https://nestjs.com](https://nestjs.com)
-* Twitter – [@nestframework](https://twitter.com/nestframework)
 
 ---
 
