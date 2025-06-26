@@ -1,6 +1,6 @@
 ### **NestJS Boilerplate with Auth, Stripe, and Prisma**
 
-```markdown
+```
 <p align="center">
   <a href="https://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -21,10 +21,10 @@
 
 And here’s how you'd start the **Installation** section properly:
 
-````markdown
+````
 ## 📦 Installation
 
-```bash
+```
 $ yarn install
 ````
 
