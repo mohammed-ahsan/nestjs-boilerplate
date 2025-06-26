@@ -1,30 +1,9 @@
 ### **NestJS Boilerplate with Auth, Stripe, and Prisma**
 
-```
-<p align="center">
-  <a href="https://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
-
-<p align="center">
-  <b>A modern NestJS boilerplate with Authentication, Stripe, and Prisma ORM</b>
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@nestjs/core" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-  <a href="https://www.npmjs.com/package/@nestjs/core" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="License" /></a>
-  <a href="https://www.npmjs.com/package/@nestjs/core" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/core.svg" alt="Downloads" /></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" /></a>
-</p>
-```
-
----
 
 And here’s how you'd start the **Installation** section properly:
 
 ````
-## 📦 Installation
-
-```
 $ yarn install
 ````
 
