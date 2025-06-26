@@ -1,8 +1,6 @@
-**NestJS boilerplate with Auth, Stripe, and Prisma**:
+### **NestJS Boilerplate with Auth, Stripe, and Prisma**
 
----
-
-````markdown
+```markdown
 <p align="center">
   <a href="https://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -17,22 +15,13 @@
   <a href="https://www.npmjs.com/package/@nestjs/core" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/core.svg" alt="Downloads" /></a>
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" /></a>
 </p>
+```
 
 ---
 
-## 🚀 Features
+And here’s how you'd start the **Installation** section properly:
 
-- ✅ **Authentication (JWT + Passport)**
-- 🔐 **Role-based Access Control**
-- 💳 **Stripe Payment Integration**
-- 🧬 **Prisma ORM** (with PostgreSQL by default)
-- 🌱 `.env` based configuration
-- 🧪 Unit & E2E Testing setup
-- 🏗 Scalable project structure
-- 📦 Yarn/NPM support
-
----
-
+````markdown
 ## 📦 Installation
 
 ```bash
